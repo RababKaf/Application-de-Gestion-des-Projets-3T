@@ -1,0 +1,68 @@
+@charset "UTF-8"
+ 
+.modalStyle h3 {
+  
+     color:rgb(14, 117, 169);
+     font-family: "Times New Roman", serif; 
+     font-weight: bold; 
+     font-size:25px;
+ 
+ 
+}
+
+.modalStyle span {
+  
+      
+     font-family: "Times New Roman", serif; 
+     font-size:19px;
+     font-weight: bold; 
+ 
+
+}
+
+
+
+.modalStyle strong {
+
+ color:rgb(4, 60, 106);
+}
+
+ .detail strong {
+        
+        color: #4a9acf;
+        font-family: Georgia, serif;
+        }
+
+
+
+.btnAdd
+{
+  border-radius: 36%;
+  font-size: 16px;
+}
+
+.modalStyle {
+   
+    padding: 8px 20px;
+ 
+  
+  }
+  
+ .modalStyle  {
+   
+    padding: 10px 20px;
+ 
+  
+  }
+  
+.modalStyle h6 {
+  
+     color:rgb(14, 117, 169);
+     font-family: "Times New Roman", serif; 
+     font-weight: bold; 
+     font-size:22px;
+ 
+ 
+}
+
+
